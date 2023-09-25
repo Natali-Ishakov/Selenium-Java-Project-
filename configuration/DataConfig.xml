@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+
+    <!-- Timeout-->
+    <TimeOut>5</TimeOut>
+
+    <!-- Web -->
+    <PlatformName>Web</PlatformName>
+    <BrowserName>Chrome</BrowserName>
+    <url>http://localhost:3000/login</url>
+
+
+
+
+
+
+</Environment>
